@@ -1,7 +1,10 @@
 # Bike Rentals
 
 RideABike is an application catering users who want to go around the city on a two-wheeler. 
+
+
 Check it out here - https://have-a-great-ride.vercel.app/
+
 Deployed on Vercel
 
 ### Roles
