@@ -1,0 +1,39 @@
+/**
+    All global styles here
+*/
+
+.bg-brand {
+  background-color: #5c6bbf !important;
+  color: white;
+}
+.text-brand {
+  color: #5c6bbf;
+}
+.brand-logo {
+  height: 2rem;
+}
+
+.border-brand {
+  border: 1px solid #5c6bbf;
+}
+.btn-outline-brand {
+  border: 1px solid #5c6bbf;
+  color: #5c6bbf;
+  background-color: white !important;
+  outline: none;
+}
+.btn-outline-brand:hover {
+  border: 1px solid #5c6bbf !important;
+  color: white !important;
+  background-color: #5c6bbf !important;
+}
+.btn-outline-brand:focus {
+  border: 1px solid #5c6bbf !important;
+  background-color: #5c6bbf !important;
+  color: white !important;
+}
+
+.form-input-info {
+  font-size: 12px;
+  color: darkgrey;
+}
